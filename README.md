@@ -26,16 +26,18 @@ To set up and run the Mobile CV Application, follow these steps:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/eokdev/mycv.git
-
-Navigate to the project directory: cd mycv
+  Navigate to the project directory: cd mycv
+  
 2. Ensure you have Flutter and Dart installed. If not, follow the official Flutter installation guide: [https://flutter.dev/docs/get-started/install]
 3. Run the application on an emulator or physical device: "flutter run" 
 
 ##Usage
+
 1. Upon launching the app, you will see your pre-filled CV information on the My Cv page.
 2. To edit your CV details, navigate to the editing page tapping the edit cv where you can make modifications.
 3. Changes made will be reflected in real-time on the My Cv page without requiring manual refresh.
 
 ##Technologies Used
-  Flutter: A cross-platform UI framework for building natively compiled applications.
-  Dart: The programming language used for building Flutter apps.
+
+- Flutter: A cross-platform UI framework for building natively compiled applications.
+- Dart: The programming language used for building Flutter apps.
