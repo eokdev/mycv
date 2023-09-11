@@ -1,4 +1,4 @@
-# Mobile CV Application
+# My Cv (Mobile CV Application)
 
 ## Overview
 The Mobile CV Application is a Flutter-based mobile application designed to serve as a comprehensive CV (Curriculum Vitae) or resume showcasing personal and professional details. It allows users to view and edit their CV information in a user-friendly manner.
